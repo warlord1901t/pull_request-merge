@@ -1,0 +1,10 @@
+<html>
+<head><title>Hello</title></head>
+<body>
+<img src="D:\TYCS 35\project\image-5.png">
+
+You’ll then look over the code changes and ask the contributor any questions you have. If you need them to make changes, you can send it back to them.
+
+Once you and the contributor have ironed things out, you can proceed with merging the pull request into your main branch.
+</body>
+</html>
